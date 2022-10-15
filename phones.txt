@@ -2,4 +2,5 @@
 2. Nokia
 3. Asus
 4. Alcatel
+5. Nexus
 
